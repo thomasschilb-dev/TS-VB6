@@ -1,0 +1,11 @@
+frmMain = 84, 52, 976, 636, , 22, 124, 655, 634, C
+modMain = 63, 62, 1003, 597, C
+clsUser = 88, 116, 1011, 648, C
+clsChannel = 110, 145, 743, 467, C
+modIRCUserCommands = 66, 87, 699, 409, C
+fbTrayIcon = 77, 63, 975, 640, , 44, 58, 658, 482, C
+modDNS = 44, 58, 659, 482, C
+clsMemos = 0, 0, 600, 426, C
+MemoCol = 0, 0, 600, 426, C
+modOperServ = 132, 174, 840, 638, C
+clsDatabase = 0, 0, 0, 0, C
